@@ -1,0 +1,9 @@
+{
+  "name": "captable-ventures",
+  "version": "1.0.0",
+  "description": "CapTable Ventures - Venture Capital as a Service for Family Offices",
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
